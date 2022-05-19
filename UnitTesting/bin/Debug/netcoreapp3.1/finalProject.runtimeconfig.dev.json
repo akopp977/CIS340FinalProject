@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\koppa\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\koppa\\.nuget\\packages"
+    ]
+  }
+}
